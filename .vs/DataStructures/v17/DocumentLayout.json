@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\NOTGIT\\DataStructures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CA4FA1-26D0-446F-8119-F0D0414D1E03}|DataStructures\\DataStructures.csproj|e:\\notgit\\datastructures\\datastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CA4FA1-26D0-446F-8119-F0D0414D1E03}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CA4FA1-26D0-446F-8119-F0D0414D1E03}|DataStructures\\DataStructures.csproj|e:\\notgit\\datastructures\\datastructures\\datastructures\\customarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CA4FA1-26D0-446F-8119-F0D0414D1E03}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\datastructures\\customarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CA4FA1-26D0-446F-8119-F0D0414D1E03}|DataStructures\\DataStructures.csproj|e:\\notgit\\datastructures\\datastructures\\datastructures\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CA4FA1-26D0-446F-8119-F0D0414D1E03}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\datastructures\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomList.cs",
+              "DocumentMoniker": "E:\\NOTGIT\\DataStructures\\DataStructures\\DataStructures\\CustomList.cs",
+              "RelativeDocumentMoniker": "DataStructures\\DataStructures\\CustomList.cs",
+              "ToolTip": "E:\\NOTGIT\\DataStructures\\DataStructures\\DataStructures\\CustomList.cs",
+              "RelativeToolTip": "DataStructures\\DataStructures\\CustomList.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:01:50.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomArray.cs",
+              "DocumentMoniker": "E:\\NOTGIT\\DataStructures\\DataStructures\\DataStructures\\CustomArray.cs",
+              "RelativeDocumentMoniker": "DataStructures\\DataStructures\\CustomArray.cs",
+              "ToolTip": "E:\\NOTGIT\\DataStructures\\DataStructures\\DataStructures\\CustomArray.cs",
+              "RelativeToolTip": "DataStructures\\DataStructures\\CustomArray.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:33:57.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\NOTGIT\\DataStructures\\DataStructures\\Program.cs",
+              "RelativeDocumentMoniker": "DataStructures\\Program.cs",
+              "ToolTip": "E:\\NOTGIT\\DataStructures\\DataStructures\\Program.cs",
+              "RelativeToolTip": "DataStructures\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:27:39.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+E:\NOTGIT\DataStructures\DataStructures\bin\Debug\net8.0\DataStructures.exe
+E:\NOTGIT\DataStructures\DataStructures\bin\Debug\net8.0\DataStructures.deps.json
+E:\NOTGIT\DataStructures\DataStructures\bin\Debug\net8.0\DataStructures.runtimeconfig.json
+E:\NOTGIT\DataStructures\DataStructures\bin\Debug\net8.0\DataStructures.dll
+E:\NOTGIT\DataStructures\DataStructures\bin\Debug\net8.0\DataStructures.pdb
+E:\NOTGIT\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+E:\NOTGIT\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.AssemblyInfoInputs.cache
+E:\NOTGIT\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.AssemblyInfo.cs
+E:\NOTGIT\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.csproj.CoreCompileInputs.cache
+E:\NOTGIT\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.dll
+E:\NOTGIT\DataStructures\DataStructures\obj\Debug\net8.0\refint\DataStructures.dll
+E:\NOTGIT\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.pdb
+E:\NOTGIT\DataStructures\DataStructures\obj\Debug\net8.0\DataStructures.genruntimeconfig.cache
+E:\NOTGIT\DataStructures\DataStructures\obj\Debug\net8.0\ref\DataStructures.dll
